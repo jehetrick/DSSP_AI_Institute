@@ -1,0 +1,10 @@
+Height and Weight data from:
+
+18 year old - height / weights
+ 
+http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data_Dinov_020108_HeightsWeights#SOCR_Data_-_25.2C000_Records_of_Human_Heights_.28in.29_and_Weights_.28lbs.29
+
+
+MLB (Major League Baseball) player height / weights
+
+http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data_MLB_HeightsWeights
